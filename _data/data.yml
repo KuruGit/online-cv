@@ -1,221 +1,91 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output.
+# Be aware that even a small syntax error here can lead to failures in output. 
 #
-
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: David Breier
+    tagline: M.Sc. Molecular Biology </br> IT Services and Admin
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: david.breier@outlook.de
+    phone: 0176 51828662
+    website: herr-breier.de #do not add http://
+    linkedin: david-breier-289646101
+    xing: David_Breier
+    github: KuruGit
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
+      #gitlab:
+      #bitbucket:
+      #twitter: '@webjeda'
+      # stack-overflow: # Number/Username, e.g. 123456/alandoe
+      #codewars:
+      #goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://herr-breier.de/cv.pdf 
     languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+      - idiom: German
+        level: Native
 
-        - idiom: French
-          level: Professional
+      - idiom: English
+        level: Professional
 
-        - idiom: Spanish
-          level: Professional
+      - idiom: French
+        level: Basic
+
+      - idiom: Spanish
+        level: Basic
 
     interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+      - item: Roleplaying
+        link:
 
-        - item: Snowboarding
-          link:
+      - item: Knitting
+        link:
 
-        - item: Cooking
-          link:
+      - item: Cooking
+        link:
 
+      - item: my fish
+        link:
+
+      - item: everything Linux
+        link:    
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi, my name's David and I'm a system administrator, DB Admin and data guy. I am working in medical IT where I do everything server related from planning and deployment over upkeep like automation, backup concepts and restores up to end of life support like server and database migrations. In my free time I still like to try and learn something new, that's why I am still enrolled in some university courses. I also like cooking, gaming and the weekly roleplaying evening with my friends.
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+    - degree: B.Sc. Computer Science
+      university: Fernuni Hagen
+      time: 2015 - Present
+      details: |
+        I wanted to get a better foundational understanding of computer science \(since that is not my original background\) and therefore enrolled into the computer science program in Hagen, Germany's only state distance-learning university.</br>As you can see I am taking my time with this program as I am honestly in no rush to finish \(I already have an M.Sc. Molecular Biology\).</br>My main points of focus, at the moment, are data science and data mining, as well as databases and a bit of software development.
+    - degree: B.Sc. Biology </br> M.Sc. Molecular Biology
+      university: Philipps-Uni Marburg
+      time: 2004 - 2009
+      details: |
+        From 2004 to 2007 I finished my B.Sc. in Biology and M.Sc. in Molecular Biology with a heavy focus on cell and developmental biology, genetics and bioinformatics. My Bachelor's Thesis revolved around Aktin regulating factors during the muscle development of **Drosophila melanogaster**. </br> After my Bachelor's Thesis I had the opportunity to keep working in the Lab of Prof. Renate Renkawitz-Pohl \(this time for money\) where I was conducting a data mining and analysis study to find proteases \(protein eating enzymes\) involved in muscle development. This study would later on provide the topic for my Master's Thesis, which I finished with a grade of 1.6 \(very good\).
+
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - role: Sys Admin and Consultant
+      time: 2015 - Present
+      company: i-Solutions, Bochum
+      details: |
+        I am mainly involved in the Administrator side of things \(setting up servers, migrating content and databases, automation and scripting, planning and setting up backup strategies\) and do the occasional 2<sup>nd</sup> level support.<br/><br/> My areas of expertise are systems administration of <mark>Linux</mark> systems, mainly <mark>Suse</mark> and <mark>Ubuntu</mark> flavors, as well as <mark>Windows Server 2012</mark> and upwards. I do the occasional scripting mainly with <mark>Bash</mark> and <mark>Python</mark>, or <mark>SQL</mark> for databases.<br/><br/> The <mark>databases</mark> I am administrating at work are mainly <mark>[Informix](https://www.ibm.com/de-de/products/informix)</mark> and <mark>[Oracle](https://www.oracle.com/de/database/)</mark> as well as, more recently, [PostgreSQL](https://www.postgresql.org/).<br/><br/> On the software side of things I am also responsible for managing a variety of software deployments starting with i-Solutions' own [RadCentre](https://i-solutions.de/loesungen/radi.php) and [ClinicCentre](https://i-solutions.de/loesungen/klinik.php) as well as our <mark>Qlik Sense</mark> based [Analytics Solutions](https://i-solutions.de/loesungen/analytics.php).<br/><br/> Aside from that I am also managing some of our internal systems like <mark>Sharepoint</mark> or our ticketing system. I am also involved in assessing the needs and implementing the solutions concerning the <mark>Telematik-Infrastructure</mark> together with our customers. This includes management and installation of the <mark>Konnektor</mark> and <mark>Kartenleser</mark> hardware as well as installation and configuration of the Telematik-adjacent services, e.g. <mark>KIM</mark>, as well as the integration into our main software products.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: Freelancer
+      time: 2013 - 2015
+      company: www.herr-breier.de
+      details: |
+        From 2013 to 2015 I have been working as a freelancer, doing mainly little web projects and setting up custom websites and webshops for small companies. For that I mainly used vanilla <mark>Javascript</mark>, <mark>HTML and CSS</mark> as well as the occasional framework like <mark>Bootstrap</mark> or <mark>Materialize</mark>. For webshops I mainly used proprietary offerings.
+    - role: study program coordinator </br> research assistant
+      time: 2011 - 2013
+      company: Ruhr-Uni Bochum
+      details: |
+        During my time at the Ruhr-Uni in Bochum I was employed as a research assistant working on a variety of projects, however my main focus was on the administrative side of things where I was involved with the accreditation of the newly established Masters program in stem cell research of the medical faculty. The program can be found [here](https://www.istem.ruhr-uni-bochum.de/).
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
