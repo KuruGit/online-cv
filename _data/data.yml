@@ -57,31 +57,31 @@ career-profile:
     summary: |
       Hi, my name's David and I'm a system administrator, DB Admin and data guy. I am working in medical IT where I do everything server related from planning and deployment over upkeep like automation, backup concepts and restores up to end of life support like server and database migrations. In my free time I still like to try and learn something new, that's why I am still enrolled in some university courses. I also like cooking, gaming and the weekly roleplaying evening with my friends.
 education:
-    - degree: B.Sc. Computer Science
-      university: Fernuni Hagen
-      time: 2015 - Present
-      details: |
+  - degree: B.Sc. Computer Science
+    university: Fernuni Hagen
+    time: 2015 - Present
+    details: |
         I wanted to get a better foundational understanding of computer science \(since that is not my original background\) and therefore enrolled into the computer science program in Hagen, Germany's only state distance-learning university.</br>As you can see I am taking my time with this program as I am honestly in no rush to finish \(I already have an M.Sc. Molecular Biology\).</br>My main points of focus, at the moment, are data science and data mining, as well as databases and a bit of software development.
-    - degree: B.Sc. Biology </br> M.Sc. Molecular Biology
-      university: Philipps-Uni Marburg
-      time: 2004 - 2009
-      details: |
+  - degree: B.Sc. Biology </br> M.Sc. Molecular Biology
+    university: Philipps-Uni Marburg
+    time: 2004 - 2009
+    details: |
         From 2004 to 2007 I finished my B.Sc. in Biology and M.Sc. in Molecular Biology with a heavy focus on cell and developmental biology, genetics and bioinformatics. My Bachelor's Thesis revolved around Aktin regulating factors during the muscle development of **Drosophila melanogaster**. </br> After my Bachelor's Thesis I had the opportunity to keep working in the Lab of Prof. Renate Renkawitz-Pohl \(this time for money\) where I was conducting a data mining and analysis study to find proteases \(protein eating enzymes\) involved in muscle development. This study would later on provide the topic for my Master's Thesis, which I finished with a grade of 1.6 \(very good\).
 experiences:
-    - role: Sys Admin and Consultant
-      time: 2015 - Present
-      company: i-Solutions, Bochum
-      details: |
+  - role: Sys Admin and Consultant
+    time: 2015 - Present
+    company: i-Solutions, Bochum
+    details: |
         I am mainly involved in the Administrator side of things \(setting up servers, migrating content and databases, automation and scripting, planning and setting up backup strategies\) and do the occasional 2<sup>nd</sup> level support.<br/><br/> My areas of expertise are systems administration of <mark>Linux</mark> systems, mainly <mark>Suse</mark> and <mark>Ubuntu</mark> flavors, as well as <mark>Windows Server 2012</mark> and upwards. I do the occasional scripting mainly with <mark>Bash</mark> and <mark>Python</mark>, or <mark>SQL</mark> for databases.<br/><br/> The <mark>databases</mark> I am administrating at work are mainly <mark>[Informix](https://www.ibm.com/de-de/products/informix)</mark> and <mark>[Oracle](https://www.oracle.com/de/database/)</mark> as well as, more recently, [PostgreSQL](https://www.postgresql.org/).<br/><br/> On the software side of things I am also responsible for managing a variety of software deployments starting with i-Solutions' own [RadCentre](https://i-solutions.de/loesungen/radi.php) and [ClinicCentre](https://i-solutions.de/loesungen/klinik.php) as well as our <mark>Qlik Sense</mark> based [Analytics Solutions](https://i-solutions.de/loesungen/analytics.php).<br/><br/> Aside from that I am also managing some of our internal systems like <mark>Sharepoint</mark> or our ticketing system. I am also involved in assessing the needs and implementing the solutions concerning the <mark>Telematik-Infrastructure</mark> together with our customers. This includes management and installation of the <mark>Konnektor</mark> and <mark>Kartenleser</mark> hardware as well as installation and configuration of the Telematik-adjacent services, e.g. <mark>KIM</mark>, as well as the integration into our main software products.
-    - role: Freelancer
-      time: 2013 - 2015
-      company: www.herr-breier.de
-      details: |
+  - role: Freelancer
+    time: 2013 - 2015
+    company: www.herr-breier.de
+    details: |
         From 2013 to 2015 I have been working as a freelancer, doing mainly little web projects and setting up custom websites and webshops for small companies. For that I mainly used vanilla <mark>Javascript</mark>, <mark>HTML and CSS</mark> as well as the occasional framework like <mark>Bootstrap</mark> or <mark>Materialize</mark>. For webshops I mainly used proprietary offerings.
-    - role: study program coordinator </br> research assistant
-      time: 2011 - 2013
-      company: Ruhr-Uni Bochum
-      details: |
+  - role: study program coordinator </br> research assistant
+    time: 2011 - 2013
+    company: Ruhr-Uni Bochum
+    details: |
         During my time at the Ruhr-Uni in Bochum I was employed as a research assistant working on a variety of projects, however my main focus was on the administrative side of things where I was involved with the accreditation of the newly established Masters program in stem cell research of the medical faculty. The program can be found [here](https://www.istem.ruhr-uni-bochum.de/).
-footer: >
+  footer: >
     Design thanks to <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
