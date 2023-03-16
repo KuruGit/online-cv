@@ -25,34 +25,34 @@ sidebar:
       #goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://herr-breier.de/cv.pdf 
     languages:
-      - idiom: German
-        level: Native
+    - idiom: German
+    level: Native
 
-      - idiom: English
-        level: Professional
+    - idiom: English
+    level: Professional
 
-      - idiom: French
-        level: Basic
+    - idiom: French
+    level: Basic
 
-      - idiom: Spanish
-        level: Basic
+    - idiom: Spanish
+    level: Basic
 
     interests:
-      - item: Roleplaying
-        link:
+    - item: Roleplaying
+    link:
 
-      - item: Knitting
-        link:
+    - item: Knitting
+    link:
 
-      - item: Cooking
-        link:
+    - item: Cooking
+    link:
 
-      - item: my fish
-        link:
+    - item: my fish
+    link:
 
-      - item: everything Linux
-        link:    
-career-profile:
+    - item: everything Linux
+    link:    
+  career-profile:
   title: Career Profile
   summary: |
       Hi, my name's David and I'm a system administrator, DB Admin and data guy. I am working in medical IT where I do everything server related from planning and deployment over upkeep like automation, backup concepts and restores up to end of life support like server and database migrations. In my free time I still like to try and learn something new, that's why I am still enrolled in some university courses. I also like cooking, gaming and the weekly roleplaying evening with my friends.
