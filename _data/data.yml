@@ -3,7 +3,7 @@
 #
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: David Breier
@@ -56,7 +56,7 @@ career-profile:
     title: Career Profile
     summary: |
       Hi, my name's David and I'm a system administrator, DB Admin and data guy. I am working in medical IT where I do everything server related from planning and deployment over upkeep like automation, backup concepts and restores up to end of life support like server and database migrations. In my free time I still like to try and learn something new, that's why I am still enrolled in some university courses. I also like cooking, gaming and the weekly roleplaying evening with my friends.
-    education:
+education:
     - degree: B.Sc. Computer Science
       university: Fernuni Hagen
       time: 2015 - Present
@@ -67,7 +67,7 @@ career-profile:
       time: 2004 - 2009
       details: |
         From 2004 to 2007 I finished my B.Sc. in Biology and M.Sc. in Molecular Biology with a heavy focus on cell and developmental biology, genetics and bioinformatics. My Bachelor's Thesis revolved around Aktin regulating factors during the muscle development of **Drosophila melanogaster**. </br> After my Bachelor's Thesis I had the opportunity to keep working in the Lab of Prof. Renate Renkawitz-Pohl \(this time for money\) where I was conducting a data mining and analysis study to find proteases \(protein eating enzymes\) involved in muscle development. This study would later on provide the topic for my Master's Thesis, which I finished with a grade of 1.6 \(very good\).
-    experiences:
+experiences:
     - role: Sys Admin and Consultant
       time: 2015 - Present
       company: i-Solutions, Bochum
