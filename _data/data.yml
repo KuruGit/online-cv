@@ -6,25 +6,25 @@ sidebar:
     #education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: David Breier
-    tagline: M.Sc. Molecular Biology </br> IT Services and Admin
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: David Breier
+  tagline: M.Sc. Molecular Biology </br> IT Services and Admin
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
-    email: david.breier@outlook.de
-    phone: 0176 51828662
-    website: herr-breier.de #do not add http://
-    linkedin: david-breier-289646101
-    xing: David_Breier
-    github: KuruGit
-    telegram: # add your nickname without '@' sign
+  email: david.breier@outlook.de
+  phone: 0176 51828662
+  website: herr-breier.de #do not add http://
+  linkedin: david-breier-289646101
+  xing: David_Breier
+  github: KuruGit
+  telegram: # add your nickname without '@' sign
       #gitlab:
       #bitbucket:
       #twitter: '@webjeda'
       # stack-overflow: # Number/Username, e.g. 123456/alandoe
       #codewars:
       #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://herr-breier.de/cv.pdf 
-    languages:
+  pdf: https://herr-breier.de/cv.pdf 
+  languages:
     - idiom: German
     level: Native
 
@@ -37,21 +37,16 @@ sidebar:
     - idiom: Spanish
     level: Basic
 
-    interests:
-    - item: Roleplaying
-    link:
+  interests:
+  - item: Roleplaying
 
-    - item: Knitting
-    link:
+  - item: Knitting
 
-    - item: Cooking
-    link:
+  - item: Cooking
 
-    - item: my fish
-    link:
+  - item: my fish
 
-    - item: everything Linux
-    link:    
+  - item: everything Linux   
 career-profile:
     title: Career Profile
     summary: |
@@ -63,7 +58,7 @@ education:
         university: Fernuni Hagen
         time: 2015 - Present
         details: |
-        I wanted to get a better foundational understanding of computer science \(since that is not my original background\) and therefore enrolled into the computer science program in Hagen, Germany's only state distance-learning university.</br>As you can see I am taking my time with this program as I am honestly in no rush to finish \(I already have an M.Sc. Molecular Biology\).</br>My main points of focus, at the moment, are data science and data mining, as well as databases and a bit of software development.
+          I wanted to get a better foundational understanding of computer science \(since that is not my original background\) and therefore enrolled into the computer science program in Hagen, Germany's only state distance-learning university.</br>As you can see I am taking my time with this program as I am honestly in no rush to finish \(I already have an M.Sc. Molecular Biology\).</br>My main points of focus, at the moment, are data science and data mining, as well as databases and a bit of software development.
       - degree: B.Sc. Biology </br> M.Sc. Molecular Biology
         university: Philipps-Uni Marburg
         time: 2004 - 2009
