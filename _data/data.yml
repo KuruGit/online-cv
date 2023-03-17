@@ -26,16 +26,16 @@ sidebar:
   pdf: https://herr-breier.de/cv.pdf 
   languages:
     - idiom: German
-    level: Native
+      level: Native
 
     - idiom: English
-    level: Professional
+      level: Professional
 
     - idiom: French
-    level: Basic
+      level: Basic
 
     - idiom: Spanish
-    level: Basic
+      level: Basic
 
   interests:
   - item: Roleplaying
